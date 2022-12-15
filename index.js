@@ -85,7 +85,7 @@ var curso = {
     "duracion": 30
 };
 
-/*Con Noatcion de Puntos */
+/*Con Notacion de Puntos */
 
 curso.vistas = 34500;
 console.log(curso.vistas); //Imprime: 34500
@@ -161,6 +161,5 @@ console.log(verificarPropiedad(miAgenda, "color")); // Imprime: Propiedad: verde
 console.log(verificarPropiedad(miAgenda, "precio")); // Imprime: Propiedad: 4.56
 console.log(verificarPropiedad(miAgenda, "origen")); // Imprime: El objeto no tiene esta propiedad.
 
-/* Objetos Complejos */
 
 
